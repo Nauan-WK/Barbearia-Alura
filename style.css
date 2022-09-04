@@ -1,19 +1,29 @@
 body
 {
   text-align: center;
-  background: lightgreen
+  background: black;
 }
 
 h1
-{font-size: 50px}
-
-p{font-size:20px}
-  
-em strong
-  
 {
-  color: darkblue
+  font-size: 40px;
+  font-family: OCR A Std;
+  color:springgreen;
 }
-  
 
+p
+{
+  font-size:20px;
+  font-family: cursive;
+  color: white;
+}
 
+em
+{
+  color:deepskyblue;
+}
+
+#Barbearia
+{
+  width:80%;
+}
